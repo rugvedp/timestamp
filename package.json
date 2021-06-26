@@ -28,5 +28,6 @@
   "bugs": {
     "url": "https://github.com/rugvedp/timestamp/issues"
   },
-  "homepage": "https://github.com/rugvedp/timestamp#readme"
+  "homepage": "https://github.com/rugvedp/timestamp#readme",
+  "dependencies": {}
 }
