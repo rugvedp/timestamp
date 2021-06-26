@@ -1,0 +1,32 @@
+{
+  "name": "timestamp",
+  "version": "1.0.0",
+  "description": "Convert unix code into a readable date",
+  "engines": {
+    "node": ">=7.8.0"
+  },
+  "files": [
+    "index.js",
+    "README.md"
+  ],
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rugvedp/timestamp.git"
+  },
+  "keywords": [
+    "timestamp",
+    "unix",
+    "javascript",
+    "npm"
+  ],
+  "author": "rugvedgamer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rugvedp/timestamp/issues"
+  },
+  "homepage": "https://github.com/rugvedp/timestamp#readme"
+}
