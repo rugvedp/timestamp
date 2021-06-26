@@ -1,4 +1,4 @@
-# ⏱️ Timestamp Converter
+# ⏱️ UNIX Timestamp Converter
 
 ## Introduction
 
